@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Javascript on Learning JS blog</title>
-    <link>http://localhost:1313/categories/javascript/</link>
+    <link>https://kuolun.github.io/categories/javascript/</link>
     <description>Recent content in Javascript on Learning JS blog</description>
     <generator>Hugo</generator>
     <language>zh-tw</language>
     <lastBuildDate>Mon, 30 Dec 2024 11:45:00 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/javascript/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://kuolun.github.io/categories/javascript/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>我的新家blog</title>
-      <link>http://localhost:1313/blog/test2/</link>
+      <link>https://kuolun.github.io/blog/test2/</link>
       <pubDate>Mon, 30 Dec 2024 11:45:00 +0800</pubDate>
-      <guid>http://localhost:1313/blog/test2/</guid>
-      <description>&lt;h1 id=&#34;這是測試&#34;&gt;這是測試&lt;/h1&gt;&#xA;&lt;p&gt;不錯喔&lt;/p&gt;&#xA;&lt;p&gt;弄個圖片看看&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/promotion.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/gallery/11.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+      <guid>https://kuolun.github.io/blog/test2/</guid>
+      <description>&lt;h1 id=&#34;這是測試&#34;&gt;這是測試&lt;/h1&gt;&#xA;&lt;p&gt;不錯喔&lt;/p&gt;&#xA;&lt;p&gt;弄個圖片看看&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://kuolun.github.io/images/promotion.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://kuolun.github.io/images/gallery/11.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
